@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ArVrEcommerce")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0a21de3f2f246b387a397b61c0da65066df5e6d5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3d749e5df7f2474c4997710935494e001ce5ec54")]
 [assembly: System.Reflection.AssemblyProductAttribute("ArVrEcommerce")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ArVrEcommerce")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
